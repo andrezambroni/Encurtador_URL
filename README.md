@@ -1,4 +1,4 @@
-﻿<h1 align="center" style="font-weight: bold;">Restaurant API 💻</h1>
+﻿<h1 align="center" style="font-weight: bold;">Encurtador de URL Serverless com AWS 💻</h1>
 
 <p align="center">
  <a href="#sobre">Descrição do Projeto</a> •
